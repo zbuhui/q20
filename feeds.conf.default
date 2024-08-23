@@ -6,7 +6,7 @@ src-git telephony https://github.com/openwrt/telephony.git;openwrt-23.05
 
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git eqosplus https://github.com/sirpdboy/luci-app-eqosplus
+
 
 #src-git helloworld https://github.com/fw876/helloworld.git
 #src-git oui https://github.com/zhaojh329/oui.git
